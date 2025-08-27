@@ -33,7 +33,7 @@ Below are some key results and visualizations from the project:
 This scatterplot shows the relationship between a player's **Performance Score** (goals + assists) and their **market value** in euros.  
 Even though there is a positive trend, the dispersion indicates that market value depends on many other factors beyond goals and assists.  
 
-![Relation between Performance Score and Market Value](docs/img/1.png)  
+![Relation between Performance Score and Market Value](data/1.png)  
 
 ---
 
@@ -41,7 +41,7 @@ Even though there is a positive trend, the dispersion indicates that market valu
 Using **CLARA clustering** with Manhattan distance, players were grouped into 5 distinct clusters.  
 This analysis helps identify different **profiles of players** based on their performance indicators.  
 
-![Player Clustering with CLARA](docs/img/2.png)  
+![Player Clustering with CLARA](data//2.png)  
 
 ---
 
@@ -49,7 +49,7 @@ This analysis helps identify different **profiles of players** based on their pe
 This bar chart highlights how different positions contribute to scoring.  
 As expected, **centre-forwards** dominate goal scoring, followed by wingers and attacking midfielders.  
 
-![Goals Distribution by Position](docs/img/3.png)  
+![Goals Distribution by Position](data/3.png)  
 
 ---
 
@@ -57,7 +57,7 @@ As expected, **centre-forwards** dominate goal scoring, followed by wingers and 
 This visualization compares total goals scored by clubs.  
 Top European clubs such as **Barcelona, Bayern Munich, and Real Madrid** lead the ranking, reflecting their attacking dominance.  
 
-![Goals Scored by Team](docs/img/4.png)  
+![Goals Scored by Team](data/4.png)  
 
 ---
 
